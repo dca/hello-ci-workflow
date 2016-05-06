@@ -1,0 +1,4 @@
+global:
+  application_name: hello-ci-workflow
+  default_region: ap-northeast-1
+
